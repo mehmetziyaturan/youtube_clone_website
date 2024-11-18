@@ -1,9 +1,15 @@
-# React + Vite
+# Youtube Clone Website
+* Youtube has basic features. basic videos will be listed on the homepage. 
+* Hovering the mouse over the video shows the playable version.
+* Video search feature, related video display, show more feature, etc.
+* On the left side there are categories, videos in different categories are shown, uploaded in category transitions (skeleton method) display.
+* When you click on the video, the detail page is shown. Description sections, number of views, comments, etc.
+* We used Tailwind for styling.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# youtube_clone_website
+# Technologies
+<ul>
+	<li>HTML: Used to create the page structure.</li>
+	<li>CSS: Used for styling and responsive design.</li>
+ 	<li>JAVASCRIPT: Used to create interactive web pages.</li>
+  <li>REACT: A JavaScript library for building modern applications.</li>
+</ul>
