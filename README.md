@@ -15,4 +15,5 @@
 </ul>
 
 # Preview
-![youtubeClone](https://github.com/user-attachments/assets/719c5b0c-310b-4536-a45c-a15167b92210)
+![youtubeClone2](https://github.com/user-attachments/assets/08766628-78b7-4eb8-8e1e-c64a5d715ad0)
+
