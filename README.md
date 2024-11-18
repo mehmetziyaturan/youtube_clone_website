@@ -13,3 +13,6 @@
  	<li>JAVASCRIPT: Used to create interactive web pages.</li>
   <li>REACT: A JavaScript library for building modern applications.</li>
 </ul>
+
+# Preview
+![youtubeClone](https://github.com/user-attachments/assets/719c5b0c-310b-4536-a45c-a15167b92210)
